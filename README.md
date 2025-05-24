@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3194-find-words-containing-character](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3194-find-words-containing-character](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
