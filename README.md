@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 ## Math
 |  |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
