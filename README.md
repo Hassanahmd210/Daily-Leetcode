@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
