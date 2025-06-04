@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3194-find-words-containing-character](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
