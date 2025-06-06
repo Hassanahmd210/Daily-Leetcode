@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3194-find-words-containing-character](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Counting
 |  |
 | ------- |
