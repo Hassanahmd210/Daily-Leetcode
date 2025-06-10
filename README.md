@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1310-watering-plants](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1310-watering-plants) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
