@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1310-watering-plants) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1310-watering-plants) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
