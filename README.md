@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2475-largest-palindromic-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Array
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
 | ------- |
