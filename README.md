@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1752-arithmetic-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
