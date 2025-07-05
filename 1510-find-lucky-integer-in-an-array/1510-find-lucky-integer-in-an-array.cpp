@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int findLucky(vector<int>& arr) {
+        unordered_map<int, int> freq;
+        int ans = -1;
+
+        for(int num : arr) {
+            freq[num]++;
+        }
+
+        for(auto [num, count] : freq) {
+            if(num == count) {
+                ans = max(ans, num); 
+            }
+        }
+        return ans;
+    }
+};
