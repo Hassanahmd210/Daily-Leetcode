@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1752-arithmetic-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1752-arithmetic-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2475-largest-palindromic-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2475-largest-palindromic-number) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
