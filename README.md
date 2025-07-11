@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2479-meeting-rooms-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2475-largest-palindromic-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2475-largest-palindromic-number) |
+| [2479-meeting-rooms-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Recursion
@@ -292,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1310-watering-plants) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
