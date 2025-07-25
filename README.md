@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2479-meeting-rooms-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
