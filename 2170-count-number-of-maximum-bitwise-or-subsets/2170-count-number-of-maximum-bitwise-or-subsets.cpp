@@ -1,22 +1,24 @@
 class Solution {
 public:
-    int maxOr;
-    int cnt;
-
-    void bt(vector<int>& nums, int i, int orr) {
-        if(i == nums.size()) {
-            if(orr == maxOr) cnt++;
-            return;
-        }
-        bt(nums, i + 1, orr);
-        bt(nums, i + 1, orr | nums[i]);
-    }
-
     int countMaxOrSubsets(vector<int>& nums) {
-        maxOr = 0;
-        cnt = 0;
-        for(int x : nums) maxOr |= x;
-        bt(nums, 0, 0);
-        return cnt;
+        int n = nums.size();
+        int mx = 0;
+        int ans = 0;
+        for(int i = 0; i < n; i++) {
+            mx |= nums[i];
+        }
+
+        int total = 1 << n;
+
+        for(int mask = 1; mask < total; mask++) { 
+            int cur = 0;
+            for(int j = 0; j < n; j++) {
+                if(mask & (1 << j)) cur |= nums[j];
+            }
+            if(cur == mx) {
+                ans++;
+            }
+        }
+        return ans;
     }
 };
