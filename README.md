@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0216-combination-sum-iii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0118-pascals-triangle) |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
