@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0118-pascals-triangle) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
