@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3639-zero-array-transformation-i) |
