@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1752-arithmetic-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
