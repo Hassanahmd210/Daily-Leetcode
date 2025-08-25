@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [0498-diagonal-traverse](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1310-watering-plants](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1310-watering-plants) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
