@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Recursion
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0826-soup-servings) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
