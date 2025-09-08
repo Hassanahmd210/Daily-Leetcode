@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
