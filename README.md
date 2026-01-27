@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0826-soup-servings) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Hassanahmd210/Daily-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
